@@ -1,6 +1,7 @@
 1224445  
 1222398  
-- [processori](processori.md) 
-- [schede madri](schede_madri.md) 
+## componenti
+- [processori](componenti/processori.md) 
+- [schede madri](componenti/schede_madri.md) 
 
 Elettronica Padovana 
